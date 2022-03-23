@@ -1,5 +1,5 @@
 # DIGITAL DECONSTRUCTION OF HUMAN RIGHTS
-## >> <a href="http://www.ddhr.cargo.site" target="_blank">DIGITAL DECONSTRUCTION OF HUMAN RIGHTS</a> <<
+## >> <a href="https://www.ddhr.cargo.site" target="_blank">DIGITAL DECONSTRUCTION OF HUMAN RIGHTS</a> <<
 Alexandria Ahluwalia
 UAL Creative Computing Institute
 IU000146: Computational Inequalities, taught by Joana Chicau & Peaks
