@@ -77,11 +77,11 @@ This data was collected from February 10, 2022 until March 27, 2022 for a total 
 
 Many tweets were not included during this data collection process. Tweets that focused or mentioned a specific person or group of people were not included. Repeat tweets/statements were also not collected; this also excluded tweets that repeated any rights from the UDHR. These decisions were made by myself and, therefore, are biased by my positionality and experiences as to what could and and could not be seen as harmful.
 
-As someone who has held roles working with data, I had the tools and skills to complete this data collection task. I also have had stable access to the internet when needed and a laptop computer with the required software. I did not require additional training or support to complete this data collection. In previous experiences working with data in a paid position, I have made CAD$20-$75 (approximately GBP£12-£45) per hour. I was not paid for this project but could have billed around CAD$750 (approximately GBP£450) for my labour.
+As someone who has held roles working with data, I had the tools and skills to complete this data collection task. I also have had stable access to the internet when needed and a laptop computer with the required software. I did not require additional training or support to complete this data collection. In previous experiences working with data in a paid position, I have made CAD$20-$75, approximately GBP£12-£45, per hour. I was not paid for this project but could have billed around CAD$750,approximately GBP£450, for my labour.
 
-However, my rate is not necessarily typical for data collection tasks. For example, on fiverr.com (a digital platform for freelance services), time and labour for data collection of this type can be hired for CAD$6.62 (GBP£3.99) per hour. This work is done by "Virtual Assistants" located in Bangladesh, Pakistan, Indonesia, and around the world. I have not included the specific listings at this rate, but they can be found >here< on fiverr.com. 
+However, my rate is not necessarily typical for data collection tasks. For example, on fiverr.com, a digital platform for freelance services, time and labour for data collection of this type can be hired for CAD$6.62, GBP£3.99, per hour. This work is done by "Virtual Assistants" located in Bangladesh, Pakistan, Indonesia, and around the world. I have not included the specific listings at this rate, but they can be found >here< on fiverr.com. 
 
-My educational background does not determine my rate; many freelancers on fiverr.com hold similar or more relevant university credentials (a Bachelor of Science Degree). My experience in data-related roles does not determine my rate either. The freelancers on fiverr.com are highly experienced and, from what some users have described on the platform, have worked more hours with data collection and the relevant software than I ever have.Everyone, without any discrimination, has the right to equal pay for equal workUDHR>> Does everyone, without any discrimination, have the right to equal pay for equal work?
+My educational background does not determine my rate; many freelancers on fiverr.com hold similar or more relevant university credentials, a Bachelor of Science Degree. My experience in data-related roles does not determine my rate either. The freelancers on fiverr.com are highly experienced and, from what some users have described on the platform, have worked more hours with data collection and the relevant software than I ever have. Everyone, without any discrimination, has the right to equal pay for equal work. Does everyone, without any discrimination, have the right to equal pay for equal work?
 
 Here are 216 lines of the Twitter text data:
 EVERYONE HAS THE RIGHT TO BREATHE CLEAN AIR AND DRINK CLEAN WATER
@@ -301,6 +301,15 @@ ALL HUMAN BEINGS ARE EQUAL BRO
 EVERYONE HAS THE RIGHT TO TALK ABOUT OLD DRAMAS
 ALL HUMAN BEINGS ARE TERRIBLE
 
+ABOUT GPT-2 TEXT DATA
+This text data was generated using a transformers model called GPT-2. Text generation is used for many things, from generating alt-text for images to creating Twitter bots. For those who can code, Twitter bots can be created using GPT-2 in only 100 lines of code (source: https://towardsdatascience.com/how-to-make-a-gpt2-twitter-bot-8669df60e60a).
+
+Text generation can also be used to spread misinformation. In the early pandemic, it was claimed that "Nearly Half Of Accounts Tweeting About Coronavirus Are Likely Bots" (source: https://www.npr.org/sections/coronavirus-live-updates/2020/05/20/859814085/researchers-nearly-half-of-accounts-tweeting-about-coronavirus-are-likely-bots?t=1648479994148). Additionally, "Twitter Bots Are a Major Source of Climate Disinformation". They account for "25% of the total tweets about climate change on most days" (source: https://www.scientificamerican.com/article/twitter-bots-are-a-major-source-of-climate-disinformation/). Misinformation is a human rights issue, and text generation is entangled in this.
+
+Context: The current blurring of fact and fiction impacts our voting patterns and political views, and there is much evidence to suggest that the spread of fake news through online media platforms is to blame. Furthermore, studies show that 40% of health news shared online is fake, with vaccines a big area of concern (source: https://www.humanrightspulse.com/mastercontentblog/fake-news-and-its-implications-for-human-rights).
+
+Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receives and impart information and ideas through any media and regardless of frontiers. Does everyone have the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receives and impart information and ideas through any media and regardless of frontiers?
+
 Here are 200 lines the GPT-2 text data:
 EVERYONE HAS THE RIGHT TO SUE IF HE OR SHE IS ACCUSED
 EVERYONE HAS THE RIGHT TO DEMAND THAT THE GOVERNMENT PROVIDE THE LEGAL, POLITICAL, AND ECONOMIC SERVICES THE CHILDREN
@@ -504,6 +513,13 @@ EVERYONE IS ENTITLED TO TAKE A VOTE ON ANY MATTER THEY CHOOSE, INCLUDING TO END 
 EVERYONE IS ENTITLED TO THIS BASIC HUMAN RIGHT, EXCEPT FOR NOT JUST THE RIGHT TO VOTE IN EVERY ELECTION
 EVERYONE IS ENTITLED TO THE BEST FREE COFFEE
 
+ABOUT UDHR TEXT DATA
+This text data was taken directly from the United Nations Web Page. The United Nations General Assembly ratified the Universal Declaration of Human Rights, the UDHR in Paris, France, on the 10th of December, 1948. The United Nations was founded in 1945 after World War II and the UDHR was championed as a natural evolution of enlightened values. However, it can also be seen how this document emerged out of specific political and geopolitical contexts to push political goals, including preventing wars. Some may even share the view that some human rights are evolved along with capitalism.
+
+The UDHR document was produced in 1948. This was 35 years before the internet in January 1, 1983, and 41 years before the World Wide Web in March 12, 1989. Since ratified, the world has changed drastically, while the rights remain the same.
+
+The UDHR is "a common standard of achievements for all peoples and all nations" (source: https://www.un.org/en/about-us/universal-declaration-of-human-rights) and is used to bring equality and justice to people and communities around the world. These rights are essential and have been significant since 1948 for many people and communities. However, the rights that have been in the UDHR since 1948 still cannot be claimed by all peoples and all nations universally. This unevenness and outdatedness are what I want to draw attention to with this project. In the same we exist in contractions, human rights are essential and should not be disregarded but should also be challenged. All human beings are born free and equal in dignity and rights. Are all human beings born free and equal in dignity and rights?
+
 Here are 50 lines the UDHR text data:
 ALL HUMAN BEINGS ARE BORN FREE AND EQUAL IN DIGNITY AND RIGHTS. THEY ARE ENDOWED WITH REASON AND CONSCIENCE AND SHOULD ACT TOWARDS ONE ANOTHER IN A SPIRIT OF BROTHERHOOD.
 EVERYONE IS ENTITLED TO ALL THE RIGHTS AND FREEDOMS SET FORTH IN THIS DECLARATION, WITHOUT DISTINCTION OF ANY KIND, SUCH AS RACE, COLOUR, SEX, LANGUAGE, RELIGION, POLITICAL OR OTHER OPINION, NATIONAL OR SOCIAL ORIGIN, PROPERTY, BIRTH OR OTHER STATUS. FURTHERMORE, NO DISTINCTION SHALL BE MADE ON THE BASIS OF THE POLITICAL, JURISDICTIONAL OR INTERNATIONAL STATUS OF THE COUNTRY OR TERRITORY TO WHICH A PERSON BELONGS, WHETHER IT BE INDEPENDENT, TRUST, NON-SELF-GOVERNING OR UNDER ANY OTHER LIMITATION OF SOVEREIGNTY.
@@ -556,3 +572,4 @@ EVERYONE HAS DUTIES TO THE COMMUNITY IN WHICH ALONE THE FREE AND FULL DEVELOPMEN
 IN THE EXERCISE OF HIS RIGHTS AND FREEDOMS, EVERYONE SHALL BE SUBJECT ONLY TO SUCH LIMITATIONS AS ARE DETERMINED BY LAW SOLELY FOR THE PURPOSE OF SECURING DUE RECOGNITION AND RESPECT FOR THE RIGHTS AND FREEDOMS OF OTHERS AND OF MEETING THE JUST REQUIREMENTS OF MORALITY, PUBLIC ORDER AND THE GENERAL WELFARE IN A DEMOCRATIC SOCIETY.
 THESE RIGHTS AND FREEDOMS MAY IN NO CASE BE EXERCISED CONTRARY TO THE PURPOSES AND PRINCIPLES OF THE UNITED NATIONS.
 NOTHING IN THIS DECLARATION MAY BE INTERPRETED AS IMPLYING FOR ANY STATE, GROUP OR PERSON ANY RIGHT TO ENGAGE IN ANY ACTIVITY OR TO PERFORM ANY ACT AIMED AT THE DESTRUCTION OF ANY OF THE RIGHTS AND FREEDOMS SET FORTH HEREIN.
+Project prototype by Alexandria Ahluwalia. MA Internet Equalities UAL CCI.
